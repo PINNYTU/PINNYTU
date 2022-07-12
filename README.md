@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Pinny! Welcome to my portfolio.  👋
 
+#### Here's a brief introduction about myself: 
+I am a hard working "Data Practitioner" who loves to get my hand dirty with all the complex data that I can find. Being able to understand the data, process it, extract value from it, and come out with actionable insights, are what truly matters to me. I used to work as a Data Scientist for a Singaporean consulting company. My clients were Unilever and Central Group(the largest retailer in Thailand). Currently, I am working on my visualization and data story telling skills to get my Tableau Data Analyst Certificate and land a data-related job in Canada.
+
+📫 How to reach me: natnapin20@gmail.com
+
+                                                      Check out my projects below 
+                                                                WWW
+                                                                 W
+                                                                 V
 <!--
 **PINNYTU/PINNYTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
