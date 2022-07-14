@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Natnapin Arch-int. I go by the name Pinny.</h1>
 <h3 align="center">A passionate Data "Practitioner" from Thailand. I just love what I do.</h3>
 
-- 👨‍💻 I take pride in coming up with surprising insights. All of my projects that I worked on my free time are available at [Data Analysis](https://github.com/PINNYTU/Data-Analysis)
+- 👨‍💻 I take pride in coming up with surprising insights. All of my projects that I worked on my free time are available at : [Data Analysis](https://github.com/PINNYTU/Data-Analysis)
 
-- 📫 How to reach me **natnapin20@gmail.com**
+- 📫 How to reach me : **natnapin20@gmail.com**
 
-- 📄 Know about my experiences [Tableau Portfolio](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
+- 📄 Know about my experiences : [Tableau Portfolio](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
 
-- ⚡ Fun fact **My friends call me workaholic but I just tend to love to be able to find new ways to tell the story of my data.**
+- ⚡ Fun fact **My friends call me a workaholic but I just love to be able to find new ways to tell the story of my data.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
