@@ -1,25 +1,18 @@
-### Hi, I'm Pinny! Welcome to my portfolio.  👋
+<h1 align="center">Hi 👋, I'm Natnapin Arch-int. I go by the name Pinny.</h1>
+<h3 align="center">A passionate Data "Practitioner" from Thailand. I just love what I do.</h3>
 
-#### Here's a brief introduction about myself: 
-I am a hard working "Data Practitioner" who loves to get my hand dirty with all the complex data that I can find. Being able to understand the data, process it, extract value from it, and come out with actionable insights, are what truly matters to me. I used to work as a Data Scientist for a Singaporean consulting company. Currently, I am working on my visualization and data story telling skills to get my Tableau Data Analyst Certificate and land a data-related job in Canada.
+- 👨‍💻 I take pride in coming up with surprising insights. All of my projects that I worked on my free time are available at [Data Analysis](https://github.com/PINNYTU/Data-Analysis)
 
-📫 How to reach me: natnapin20@gmail.com
+- 📫 How to reach me **natnapin20@gmail.com**
 
-                                                      Check out my projects below 
-                                                                WWW
-                                                                 W
-                                                                 V
-<!--
-**PINNYTU/PINNYTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📄 Know about my experiences [Tableau Portfolio](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
 
-Here are some ideas to get you started:
+- ⚡ Fun fact **My friends call me workaholic but I just tend to love to be able to find new ways to tell the story of my data.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/natnapin-archint/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/natnapin-archint/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
