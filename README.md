@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects that I worked on during my free time are available at : [Data Analysis](https://github.com/PINNYTU/Data-Analysis)
 
 - 🌱 I’m currently aiming to land a data-related job in Canada
-- 
+
 - 📫 How to reach me : **natnapin20@gmail.com**
 
 - 📄 Know about my experiences : [Tableau Portfolio](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
