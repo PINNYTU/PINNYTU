@@ -7,7 +7,7 @@
 
 - 📫 How to reach me : **natnapin20@gmail.com**
 
-- 📄 Know about my experiences : [Tableau Portfolio](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
+- 📄 Know about my experiences : [Tableau Portfolio](https://public.tableau.com/app/profile/natnapin.arch.int)
 
 - ⚡ Fun fact **My friends call me a workaholic but I just love finding new ways to tell the story of my data and coming up with surprising insights.**
 
