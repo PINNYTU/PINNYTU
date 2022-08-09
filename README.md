@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences : [Tableau Portfolio](https://public.tableau.com/app/profile/natnapin.arch.int)
 
-- ⚡ Fun fact **Data Visualization is not work but a hobby to me.**
+- ⚡ Fun fact : **Data Visualization is not work but a hobby to me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
